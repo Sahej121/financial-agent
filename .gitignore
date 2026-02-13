@@ -160,4 +160,5 @@ cython_debug/
 .idea/
 
 # Ignore any local env folders
-*env/venv_stable/
+*env/
+venv_stable/
